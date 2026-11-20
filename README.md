@@ -72,10 +72,10 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** MIDHUN S
+**Name:** ADITHYA M
 
 ### Register No:
-212224230158
+212224230008
 
 ---
 
@@ -93,7 +93,7 @@ plt.title("Original Image")
 plt.axis('off') 
 ```
 
-<img width="563" height="342" alt="image" src="https://github.com/user-attachments/assets/4d567fe7-fb17-4050-81d1-c5caebfc9ed4" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/724e2a5e-5fcd-4f61-9212-3d7cb6df57d6" />
 
 
 
@@ -106,7 +106,7 @@ plt.imshow(cv2.cvtColor(translated_image, cv2.COLOR_BGR2RGB))
 plt.title("Translated Image")  
 plt.axis('off')
 ```
-<img width="562" height="355" alt="image" src="https://github.com/user-attachments/assets/ff228856-a875-4e91-992b-1e976466fad0" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/781e7b0c-0aeb-4e79-b6a1-7d8394d60ab9" />
 
 
 ```
@@ -116,7 +116,8 @@ plt.imshow(cv2.cvtColor(scaled_image, cv2.COLOR_BGR2RGB))
 plt.title("Scaled Image")  
 plt.axis('off')
 ```
-<img width="621" height="212" alt="image" src="https://github.com/user-attachments/assets/11d13a78-190b-4119-826c-70bb8882003e" />
+<img width="515" height="152" alt="image" src="https://github.com/user-attachments/assets/989ea789-e502-45ad-b2f6-efddfa618d41" />
+
 
 
 ```
@@ -127,7 +128,7 @@ plt.imshow(cv2.cvtColor(sheared_image, cv2.COLOR_BGR2RGB))
 plt.title("Sheared Image")  # Set title
 plt.axis('off')
 ```
-<img width="606" height="387" alt="image" src="https://github.com/user-attachments/assets/27807a79-b18e-4c23-b76e-12db47091200" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/bb503d89-39fb-476f-a0ed-94f5f7d2ac26" />
 
 
 ```
@@ -137,7 +138,8 @@ plt.imshow(cv2.cvtColor(reflected_image, cv2.COLOR_BGR2RGB))  # Display the refl
 plt.title("Reflected Image")  # Set title
 plt.axis('off')
 ```
-<img width="588" height="388" alt="image" src="https://github.com/user-attachments/assets/2b52363a-61fb-4cb1-927e-0ff15f222caf" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/3e40a2ec-f21c-4f34-894a-8663ee14bc36" />
+
 
 
 ```
@@ -152,7 +154,7 @@ plt.imshow(cv2.cvtColor(rotated_image, cv2.COLOR_BGR2RGB))
 plt.title("Rotated Image")  
 plt.axis('off')
 ```
-<img width="612" height="378" alt="image" src="https://github.com/user-attachments/assets/f91c2b9e-16c0-4433-b322-0bdb8ff85de7" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/734c8213-c2c6-4080-ada4-0d7ed72b2b8c" />
 
 ```
 # Step 7: Image Cropping
@@ -164,7 +166,8 @@ plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB))
 plt.title("Cropped Image")  # Set title
 plt.axis('off')
 ```
-<img width="607" height="495" alt="image" src="https://github.com/user-attachments/assets/8f71eccf-505f-45da-bd2d-c84cd7875d7e" />
+<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/b5f9bd1e-708f-415b-93f0-1034a2a3e0f0" />
+
 
 
 ##  Result
